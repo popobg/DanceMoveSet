@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pauli\\dev\\dotnet-formation\\odissey-quests\\DanceMoveSet\\Dance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{433CF21A-2F39-4F88-A78C-578E6318089B}|DanceMoveSet\\DanceMoveSet.csproj|c:\\users\\pauli\\dev\\dotnet-formation\\odissey-quests\\dancemoveset\\dance\\dancemoveset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433CF21A-2F39-4F88-A78C-578E6318089B}|DanceMoveSet\\DanceMoveSet.csproj|solutionrelative:dancemoveset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pauli\\dev\\dotnet-formation\\odissey-quests\\DanceMoveSet\\Dance\\DanceMoveSet\\Program.cs",
+              "RelativeDocumentMoniker": "DanceMoveSet\\Program.cs",
+              "ToolTip": "C:\\Users\\pauli\\dev\\dotnet-formation\\odissey-quests\\DanceMoveSet\\Dance\\DanceMoveSet\\Program.cs",
+              "RelativeToolTip": "DanceMoveSet\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:04:47.533Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
