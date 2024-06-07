@@ -4,6 +4,15 @@
     {
         static void Main(string[] args)
         {
+            static void RepeatMoves(string[] array, int iteration)
+            {
+                for (int i = 0; i < iteration; i++)
+                {
+                    Console.WriteLine(string.Join(" ", array));
+                    Console.WriteLine();
+                }
+            }
+
             string[] moves = new string[32];
 
             bool done = false;
@@ -24,6 +33,7 @@
 
                 if (userMove == "done")
                 {
+                    // could be achieved with a "break" statement too
                     done = true;
                 }
                 else
@@ -38,15 +48,6 @@
             int numberIteration = Convert.ToInt32(Console.ReadLine());
 
             RepeatMoves(moves, numberIteration);
-        }
-
-        public static void RepeatMoves(string[] array, int iteration)
-        {
-            for (int i = 0; i < iteration; i++)
-            {
-                Console.WriteLine(string.Join(" ", array));
-                Console.WriteLine();
-            }
         }
     }
 }
