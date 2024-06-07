@@ -20,6 +20,8 @@
                     userMove = Console.ReadLine();
                 }
 
+                userMove = userMove.ToLower().Trim();
+
                 if (userMove == "done")
                 {
                     done = true;
